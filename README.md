@@ -11,11 +11,10 @@ I make games for phones. Right now I'm finishing **[Titan Survivors](https://git
 #### Projects
 
 - **[Titan Survivors](https://github.com/ozkankazan41-droid/titan-survivors)**: Unity, iOS and Android. 7 heroes, 9 weapons with evolutions, 8 dungeons, each with its own titan. In closed testing now.
-- **[Dungeon Survivors](https://github.com/ozkankazan41-droid/Solo-2D-Game-Dev)**: a 2D roguelite survival game I built on my own in GDevelop.
 
 #### How I work
 
-I lead my projects from the first idea to the store page: game design, how the systems feel, art direction, balance and playtesting, store listings and marketing. I'm open about using AI: the code for Titan Survivors was written with Claude (Anthropic's AI) under my direction, and Dungeon Survivors was made with GDevelop and its AI tools. I decide what gets built, play every build and own the result.
+I lead my projects from the first idea to the store page: game design, how the systems feel, art direction, balance and playtesting, store listings and marketing. I'm open about using AI: the code for Titan Survivors was written with Claude (Anthropic's AI) under my direction. I decide what gets built, play every build and own the result.
 
 **Tools:** Unity · GDevelop · Claude · Xcode · App Store Connect · Google Play Console · AdMob
 
